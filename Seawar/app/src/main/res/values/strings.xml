@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Seawar</string>
+    <string name="random">Random</string>
+    <string name="manual">Manual</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="apply">Apply</string>
+    <string name="turn">Turn</string>
+    <string name="Shipsoverlapedtext">Ships are overlaped</string>
+    <string name="yourturnText">Your turn</string>
+    <string name="Shipisdeadtext">Ship is dead</string>
+    <string name="youshoottezt">You shoot in the ship</string>
+    <string name="youwintext">Congratulations! You Win!!!</string>
+    <string name="youloosetext">You loose this game!!!</string>
+    <string name="your_field">Your field</string>
+    <string name="computer_field">Computer field</string>>
+</resources>
